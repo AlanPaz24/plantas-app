@@ -1,0 +1,28 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+    background-color: rgb(161, 245, 161);
+    padding: 10px;
+}
+.logo {
+    width: 100px;
+}
+.linksContainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+    padding: 15px;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;  
+    padding: 15px;
+}
+.link:hover{
+    color: rgb(115, 117, 2);
+}

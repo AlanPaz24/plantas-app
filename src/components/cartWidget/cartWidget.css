@@ -1,0 +1,12 @@
+.container{
+    padding: 10px;
+}
+.cart {
+ width: 50px;
+
+}
+.badge {
+    background-color: rgb(255, 255, 255);;
+    border-radius: 15px; 
+    font-weight: bold;
+}
