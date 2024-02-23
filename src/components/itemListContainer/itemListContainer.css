@@ -1,3 +1,7 @@
 .greetingContainer {
-    padding: 20px;
+    background-color: forestgreen;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
 }
