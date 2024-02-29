@@ -1,14 +1,8 @@
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
 }
 .cart {
- width: 50px;
-
-}
-.badge {
-    width: 100%;
-    background-color: rgb(4, 170, 18);; 
-    font-weight: bold;
+    width: 50px;
 }

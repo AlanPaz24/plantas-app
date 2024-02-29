@@ -11,9 +11,10 @@ const Navbar = () => {
                 <a className='link' href="/">Las mas vendidas</a>
                 <a className='link' href="/">Interior</a>
                 <a className='link' href="/">Jardin</a>
-                <a className='link' href="/">Productos de jardinería</a>                    
+                <a className='link' href="/">Productos de jardinería</a>
+                <CartWidget/>                    
                 </div>
-                <CartWidget/>
+                
             </nav>
         </div>
     )
